@@ -1,0 +1,8 @@
+method,top1_val_accuracy,timestamp
+"1) Basic ConvNet (scratch, no aug)",0.022027971,14-08-2025 11:09
+"1) Basic ConvNet (scratch, no aug)",0.02074592,14-08-2025 11:22
+2) Scratch + Data Augmentation,0.026573427,14-08-2025 11:29
+3) VGG16 - Feature Extraction,0.658391595,14-08-2025 11:37
+4) VGG16 - Feature Extraction + Aug,0.386247098,14-08-2025 11:43
+5) VGG16 - Fine-Tuning (top layers),0.39720279,14-08-2025 11:51
+6) ResNet50 - Feature Extraction,0.767715633,14-08-2025 11:58
