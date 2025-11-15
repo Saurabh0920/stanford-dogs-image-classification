@@ -196,5 +196,3 @@ GPU is strongly recommended for pretrained models.
 * Stanford Dogs Dataset (Khosla et al., Stanford Vision Lab)
 * ImageNet Pretrained Models (VGG16, ResNet50)
 * TensorFlow/Keras Framework
-
-next**.
